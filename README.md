@@ -7,6 +7,15 @@
 - Use the app to track COVID-19 statistics globally or for specific countries.
 - View data trends in a map and graphs.
 
-## License
+## Install Dependencies
+```
+npm install
+```
 
-This project is licensed under the MIT License.
+## Run App
+```
+npm start
+```
+
+
+## [Live Site](http://SARS-CoV-2.surge.sh)
