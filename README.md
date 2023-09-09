@@ -1,5 +1,7 @@
 # COVID-19 Tracker App
 
+## [Live Site](http://SARS-CoV-2.surge.sh)
+
 ![covid](https://github.com/zulfiqar313/covid-19-tracker/assets/69974518/f6af41b9-d12d-4523-ae7e-5eab66b16f45)
 
 ## Usage
@@ -18,4 +20,4 @@ npm start
 ```
 
 
-## [Live Site](http://SARS-CoV-2.surge.sh)
+
